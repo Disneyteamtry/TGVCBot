@@ -17,9 +17,9 @@ const env = cleanEnv(process.env, {
   BOT_TOKEN: str(),
   LOG_CHANNEL: num(),
   THUMBNAIL: str({
-    default: 'https://telegra.ph/file/6b07279fd80ef2b844ed0.png'
+    default: 'https://telegra.ph/file/5ca39724557b9c29d60f4.jpg'
   }),
-  WATERMARK: str({ default: 'TGVCBot' })
+  WATERMARK: str({ default: 'Shiny Hunts' })
 });
 
 export default env;
