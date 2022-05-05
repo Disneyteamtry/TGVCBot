@@ -72,4 +72,6 @@ wget -qO- https://raw.githubusercontent.com/ArnabXD/TGVCBot/main/scripts/install
 - [BuyMeACoffee](https://www.buymeacoffee.com/arnabxd)
 - Crypto (USDT) : `0xe4236562c34760c0dd063826f2f9d73802df6ed2` (BEP20)
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteamtry/TGVCBot/tree/main)
 ---
